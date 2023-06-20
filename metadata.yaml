@@ -1,0 +1,44 @@
+_repo: The-East-I-know_70971
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Benét, William Rose
+    alias: Benet, William Rose
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '2108'
+    url: http://www.gutenberg.org/2009/agents/2108
+    wikipedia: https://en.wikipedia.org/wiki/William_Rose_Benét
+  - agent_name: Frances, Teresa
+    gutenberg_agent_id: '56015'
+    url: http://www.gutenberg.org/2009/agents/56015
+creator:
+  author:
+    agent_name: Claudel, Paul
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '43686'
+    url: http://www.gutenberg.org/2009/agents/43686
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Claudel
+    - https://fr.wikipedia.org/wiki/Paul_Claudel
+description: ''
+gutenberg_issued: '2023-06-13'
+identifiers:
+  gutenberg: '70971'
+language: en
+pgterms:marc904: https://archive.org/details/eastiknow00clau/page/12/mode/2up
+pgterms:marc905: 20210329165127claudel
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Thiers and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bYale University Press, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The East I know
+url: http://www.gutenberg.org/ebooks/70971
