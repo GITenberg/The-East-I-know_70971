@@ -12,6 +12,9 @@ contributor:
   - agent_name: Frances, Teresa
     gutenberg_agent_id: '56015'
     url: http://www.gutenberg.org/2009/agents/56015
+covers:
+- cover_type: archival
+  image_path: 70971-h/images/cover.jpg
 creator:
   author:
     agent_name: Claudel, Paul
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Claudel
     - https://fr.wikipedia.org/wiki/Paul_Claudel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70971#The-East-I-know
 gutenberg_issued: '2023-06-13'
 identifiers:
   gutenberg: '70971'
